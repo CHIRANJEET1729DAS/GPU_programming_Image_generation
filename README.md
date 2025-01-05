@@ -1,1 +1,1 @@
-# GPU_programming_OpenGL_simulations
+# GPU_programming_Image_generation
